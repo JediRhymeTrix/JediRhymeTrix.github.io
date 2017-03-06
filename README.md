@@ -1,2 +1,2 @@
 # JediRhymeTrix.github.io
-Test site for KMIT IMS
+Test site for KMIT IMS project
